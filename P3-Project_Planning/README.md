@@ -7,9 +7,11 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+1. ![image of homepage](wireframes/"Homepage.png")
+2. ![image of User](wireframes/"Userpage(Driver).png")
+3. ![image of homepage](wireframes/"Userpage(Supervisor).png")
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-![Wireframes](wireframes/"capstone wireframes.pdf")
+
 
 ### Project Tracker
 
